@@ -5,6 +5,8 @@ My name is Eli Perchenok, and I am a senior Computer Science and Engineering und
 
 Skilled in both hardware and software, I have developed a solid background in background logic, testing, and database work. I also have hands-on experience in network design, as well as level 1/level 2 technical support.
 
+I have a certification in Oracle Cloud Infrastructure and am currently working on more.
+
 I am interested in networks, databases, cloud engineering and everything in between.
 
 I'm currently seeking full-time engineering and analyst opportunities in collaborative environments, and would love to work with you.
